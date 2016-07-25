@@ -1,4 +1,5 @@
 #include <Windows.h>
+#include <inttypes.h>
 
 int main() {
     ShowWindow(GetConsoleWindow(), SW_HIDE);
